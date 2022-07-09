@@ -1,4 +1,4 @@
-Some fun with java.
+## Some fun with java.
 
 
 ## Getting Started
