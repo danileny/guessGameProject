@@ -1,5 +1,5 @@
 ## Some fun with java.
-First ever written code by me.
+First ever written code by me. Just checking auth methods.
 
 ## Getting Started
 
