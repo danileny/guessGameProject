@@ -1,5 +1,6 @@
 ## Some fun with java.
 First ever written code by me. Just checking auth methods.
+Some lorem ipsum.
 
 ## Getting Started
 
